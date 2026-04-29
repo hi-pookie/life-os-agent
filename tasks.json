@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Fajr prayer", "type": "prayer", "priority": "high" },
+  { "id": 2, "title": "Dhuhr prayer", "type": "prayer", "priority": "high" },
+  { "id": 3, "title": "Asr prayer", "type": "prayer", "priority": "high" },
+  { "id": 4, "title": "Maghrib prayer", "type": "prayer", "priority": "high" },
+  { "id": 5, "title": "Isha prayer", "type": "prayer", "priority": "high" },
+  { "id": 6, "title": "Go to work", "type": "task", "priority": "high" },
+  { "id": 7, "title": "Complete something at work", "type": "task", "priority": "medium" },
+  { "id": 8, "title": "Daily goal", "type": "habit", "priority": "medium" }
+]
